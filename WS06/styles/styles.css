@@ -1,0 +1,159 @@
+body {
+	background-color: #ffffff;
+	color: #8c8a8a;
+	font-family: sans-serif;
+	font-size: 12px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1550px;
+}  
+
+h1 {
+	text-align: center;
+	font-size: 20px;
+	font-family: sans-serif;
+	letter-spacing: 2px;
+    text-transform:uppercase;
+	background-color: #f2f2f2;
+	border: 1px solid #8c8a8a;
+	padding: 30px;
+}
+
+p {
+	font-size: 12px;
+	color: black;
+	font-family: sans-serif;
+	background-color: #e6e6e6;
+	border-radius: 15px;
+	padding: 20px;
+}
+
+nav {
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background-color: #666666;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+nav a {
+	text-decoration: none;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+	text-decoration: none;
+	margin-top: 100px;
+	margin-bottom: 180px;
+}
+
+.firstsection {
+	text-align: center;
+	background-color: #e6e6e6;
+	border-radius: 15px;
+	padding: 20px;	
+}
+
+.secondsection {
+	display: inline-block;
+	float: right;
+	margin: 0 1.5%;
+	width: 63%;
+}
+.aside {
+	display: inline-block;
+	float: left;
+	margin: 0 1.5%;
+	width: 30%;
+}
+
+h2 {
+	letter-spacing: 1px;
+}
+
+.ul2 {
+	color:#8c8a8a;
+}
+a {
+	color: #8c8a8a;
+}
+.thirdsection {
+	float: right;
+	margin-left: 500px;
+	margin-top: -145px;
+}
+
+.fourthsection {
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color: #e6e6e6;
+	border-radius: 15px;
+	padding: 10px;
+	width: 650px;
+	margin: 0px 120px;
+}
+
+.perkele {
+	background-color: #e6e6e6;
+	border-radius: 15px;
+	padding: 10px;
+}	
+
+a:link {
+  color: #ffffff;
+}
+a:visited {
+  color: #f2f2f2;
+}
+a:hover {
+	text-decoration: none;
+  color: #ff0000;
+}
+a:active {
+  color: #cccccc;
+}
+
+.thirdpage {
+	float: left;
+}
+.firstpage {
+	text-align: center;
+}
+.footer {
+	background-color: #666666;
+	color: #ffffff
+}
+footer {
+	clear: both;
+	text-align: center;	
+	border-radius: 15px;
+}
+
+.sade {
+	float: right;
+	border-radius: 15px;
+}
+
+.teesti a:link {
+	color: #000000;
+}
+
+.teesti a:visited {
+	color: #000000;
+}
+
+.teesti a:hover {
+	color: #ff0000;
+}
+
+.container {
+	width: 100%;
+	max-width: 1550px;
+}
+
+	
