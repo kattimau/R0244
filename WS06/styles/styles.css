@@ -140,5 +140,8 @@ footer {
 	color: #ff0000;
 }
 
-
+.container {
+	width: 100%;
+	max-width: 1550px;
+}
 	
