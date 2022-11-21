@@ -36,7 +36,7 @@ hr {
   -o-background-size: cover;
   background-size: cover;
   height: auto;
-  width: fit-content;
+  max-width: 100%;
 }
 
 .mainp {
