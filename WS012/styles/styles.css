@@ -30,13 +30,13 @@ hr {
 }
 
 .img-fluid {
-  background: repeat center center fixed;
+  background: no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   height: auto;
-  max-width: 100%;
+  width: 100vw;
 }
 
 .mainp {
