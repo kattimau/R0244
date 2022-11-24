@@ -124,11 +124,22 @@ figcaption {
   letter-spacing: 2px;
 }
 
-a:hover {
-	text-decoration: none;
+.pagination a {
+  color: black;
+  padding: 5px 13px;
+  border-radius: 5px;
+  transition: background-color .3s;
 }
 
-.backtotop {
-  border: 2px;
-  border-color: #232323;
+.pagination a.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+a:hover {
+	text-decoration: none;
 }
